@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+    font-family: fantasy;
+}
+
+button {
+    background-color: black;
+    color: #793ed0;
+    font-family: fantasy;
+    border-radius: 25%;
+    border-color: #793ed0;
+    margin: 1vh;
+}
+
+div {
+    margin-left: 30vh;
+    margin-right: 30vh;
+}
