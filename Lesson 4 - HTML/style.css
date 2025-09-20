@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+/*designates individual background color and margin position*/
+.AdelleGreen {
+    background-color: #4CAF50;
+    /* Green */
+    margin: 5vh 0 0 0;
+}
+
+.AdelleYellow {
+    background-color: #e2c208;
+    /* Yellow */
+    margin: 15vh 0 0 0;
+}
+
+/*this changes all the buttons in the html site*/
+button {
+    border: solid, black, 1vh;
+    color: white;
+    padding: 3vh 5vh;
+    text-align: center;
+    position: absolute;
+    font-size: 16px;
+}
+
+/* this only activates when I hover*/
+button:hover {
+    padding: 2vh 4vh;
+    transition-duration: 1s;
+}
