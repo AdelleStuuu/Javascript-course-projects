@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+
+}
