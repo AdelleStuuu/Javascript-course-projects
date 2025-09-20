@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    font-family: fantasy;
+    color: white;
+}
+
+.Title {
+    font-size: 5vh;
+    margin: 1vh 0vh -1vh 0vh;
+}
+
+#text {
+    font-size: 5vh;
+    margin: 1vh;
+    font-family: fantasy;
+}
+
+button {
+    border-radius: 100%;
+    padding: 2vh 2.5vh;
+    color: white;
+    font-family: fantasy;
+}
+
+.number {
+    background-color: white;
+    color: black;
+}
+
+.operator {
+    background-color: #502ca5;
+
+}
+
+.mainOperator {
+    background-color: mediumpurple;
+
+}
